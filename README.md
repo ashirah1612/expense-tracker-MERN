@@ -64,15 +64,14 @@ Password: 123456
 ---
 
 ## **SCREENSHOTS**
-## **SCREENSHOTS**
 
 <p align="center">
   <img src="images/home.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="images/form.png" width="300"/>
-   <img src="images/list.png" width="300"/>
+  <img src="images/form.png" width="300" height="200"/>
+   <img src="images/list.png" width="300" height="200"/>
 </p>
 
 ## **LIVE DEMO**
