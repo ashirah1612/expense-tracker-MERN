@@ -64,17 +64,16 @@ Password: 123456
 ---
 
 ## **SCREENSHOTS**
+## **SCREENSHOTS**
 
-### HOME  
-![Home](images/home.png)
+<p align="center">
+  <img src="images/home.png" width="300"/>
+</p>
 
-### EXPENSE FORM  
-![Expense](images/form.png)
-
-### EXPENSE LIST  
-![List](images/list.png)
-
----
+<p align="center">
+  <img src="images/form.png" width="300"/>
+   <img src="images/list.png" width="300"/>
+</p>
 
 ## **LIVE DEMO**
 
