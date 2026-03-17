@@ -45,12 +45,16 @@ Password: 123456
 *(You can also create your own account using signup)*
 
 
-##  Screenshots
+## 📸 Screenshots
 
-![Home](images/home.png)
-![Expense](images/form.png)
-![list](images/list.png)
+### Home
+![Home](./images/home.png)
 
+### Expense Form
+![Expense](./images/form.png)
+
+### Expense List
+![List](./images/list.png)
 
 ##  Live Demo
 
