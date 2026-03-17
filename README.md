@@ -47,7 +47,9 @@ Password: 123456
 
 ##  Screenshots
 
-
+![Home](images/home.png)
+![Expense](images/form.png)
+![list](images/list.png)
 
 
 ##  Live Demo
