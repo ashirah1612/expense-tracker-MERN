@@ -57,9 +57,7 @@ public/
 ## **TEST LOGIN (EXAMPLE)**
 
 Email: test@gmail.com  
-Password: 123456  
-
-*(You can also create your own account using signup)*
+Password: 123456789  
 
 ---
 
@@ -75,16 +73,9 @@ Password: 123456
 </p>
 
 ## **LIVE DEMO**
-
-(Add after deployment)
-
 ---
 
-## **NOTE**
 
-This project uses MongoDB. For deployment, a cloud database (MongoDB Atlas) is required.
-
----
 
 ## **AUTHOR**
 
